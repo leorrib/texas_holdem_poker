@@ -19,3 +19,6 @@ Option2: custom number of players.
 Then, enter: 
 'from interactive_main import deck, cards, game, hands, players' 
 Next, you will be prompted to enter the total number of players. Finally, game will run and winner will be indicated. Exit and repeat to run again.
+
+### References
+https://www.udemy.com/course/learn-to-code-with-python/
